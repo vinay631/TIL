@@ -9,6 +9,7 @@ This is a place to archive all the things I learn daily.
 
 * [Deep Learning](#deep learning)
 * [Soccer Analytics](#soccer analytics)
+* [Data Analysis](#data analysis)
 
 ---
 
@@ -19,5 +20,11 @@ This is a place to archive all the things I learn daily.
 ---
 
 ### Soccer Analytics
+
+---
+
+### Data Analysis
+
+- [Reshaping pandas dataframe](DataAnalysis/ReshapingInPandas.ipynb)
 
 ---
