@@ -16,6 +16,7 @@ This is a place to archive all the things I learn daily.
 ### Deep Learning
 
 - [Softmax Function](DeepLearning/softmax.md)
+- [Stochastic Gradient Descend](DeepLearning/sgd.md)
 
 ---
 
