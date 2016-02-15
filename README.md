@@ -33,7 +33,7 @@ This is a place to archive all the things I learn daily.
 
 ### Software Engineering
 
-- [Scala]
+- Scala
 ..* [Traits](SoftwareEngineering/Scala/traits.md)
 
 ---
