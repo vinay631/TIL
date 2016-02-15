@@ -10,6 +10,7 @@ This is a place to archive all the things I learn daily.
 * [Deep Learning](#deep learning)
 * [Soccer Analytics](#soccer analytics)
 * [Data Analysis](#data analysis)
+* [Software Engineering](#software engineering)
 
 ---
 
@@ -27,5 +28,12 @@ This is a place to archive all the things I learn daily.
 ### Data Analysis
 
 - [Reshaping pandas dataframe](DataAnalysis/ReshapingInPandas.ipynb)
+
+---
+
+### Software Engineering
+
+- [Scala]
+..* [Traits](SoftwareEngineering/Scala/traits.md)
 
 ---
