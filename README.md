@@ -34,6 +34,6 @@ This is a place to archive all the things I learn daily.
 ### Software Engineering
 
 - Scala
-..* [Traits](SoftwareEngineering/Scala/traits.md)
+    * [Traits](SoftwareEngineering/Scala/traits.md)
 
 ---
