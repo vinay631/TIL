@@ -11,6 +11,7 @@ This is a place to archive all the things I learn daily.
 * [Soccer Analytics](#soccer analytics)
 * [Data Analysis](#data analysis)
 * [Software Engineering](#software engineering)
+* [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -37,3 +38,7 @@ This is a place to archive all the things I learn daily.
     * [Traits](SoftwareEngineering/Scala/traits.md)
 
 ---
+
+### Miscellaneous
+
+- [Telnet](Miscellaneous/misc.md)
