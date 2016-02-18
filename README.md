@@ -20,6 +20,7 @@ This is a place to archive all the things I learn daily.
 - [Softmax Function](DeepLearning/softmax.md)
 - [Stochastic Gradient Descend](DeepLearning/sgd.md)
 - [Dropout](DeepLearning/dropout.md)
+- [RELU](DeepLearning/relu.md)
 
 ---
 
