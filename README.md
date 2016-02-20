@@ -21,6 +21,7 @@ This is a place to archive all the things I learn daily.
 - [Stochastic Gradient Descend](DeepLearning/sgd.md)
 - [Dropout](DeepLearning/dropout.md)
 - [RELU](DeepLearning/relu.md)
+- [Vanishing Gradient](DeepLearning/vanishing.md)
 
 ---
 
