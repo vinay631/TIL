@@ -40,6 +40,7 @@ This is a place to archive all the things I learn daily.
 - Scala
     * [Traits](SoftwareEngineering/Scala/traits.md)
 - [SOLID](SoftwareEngineering/solid.md)
+- [Curry](SoftwareEngineering/currying.md)
 
 ---
 
