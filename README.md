@@ -32,6 +32,7 @@ This is a place to archive all the things I learn daily.
 ### Data Analysis
 
 - [Reshaping pandas dataframe](DataAnalysis/ReshapingInPandas.ipynb)
+- [Maximum a-posteriori (MAP)](DataAnalysis/map.md)
 
 ---
 
