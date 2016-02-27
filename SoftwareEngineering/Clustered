@@ -1,0 +1,6 @@
+## Clustered and non-clustered indices
+#### February, 2016
+ 
+Cluster indices order data physically on the disk. Non-clustered index don't cluster data, instead it keeps the order of the data.
+
+--
