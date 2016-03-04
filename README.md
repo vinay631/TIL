@@ -45,6 +45,8 @@ This is a place to archive all the things I learn daily.
     * [Traits](SoftwareEngineering/Scala/traits.md)
 - [SOLID](SoftwareEngineering/solid.md)
 - [Curry](SoftwareEngineering/currying.md)
+- [XSRF](SoftwareEngineering/XSRF.md)
+- [Amdahl's law](SoftwareEngineering/amdahls.md)
 - [LLVM](SoftwareEngineering/llvm.md)
 
 ---
