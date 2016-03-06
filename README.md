@@ -36,6 +36,7 @@ This is a place to archive all the things I learn daily.
 - [Cohort Analysis](DataAnalysis/cohort.md)
 - [Benford's law](DataAnalysis/benford.md)
 - [Kurtosis](DataAnalysis/kurtosis.md)
+- [Bootstrapping](DataAnalysis/bootstrap.md)
 
 ---
 
