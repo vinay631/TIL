@@ -37,6 +37,7 @@ This is a place to archive all the things I learn daily.
 - [Benford's law](DataAnalysis/benford.md)
 - [Kurtosis](DataAnalysis/kurtosis.md)
 - [Bootstrapping](DataAnalysis/bootstrap.md)
+- [Survival Analysis](Survival.md)
 
 ---
 
