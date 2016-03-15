@@ -1,7 +1,8 @@
 ## Function to check if a string is numeric in Postgres
 
 <p><code>
-CREATE OR REPLACE FUNCTION isnumeric(text) RETURNS BOOLEAN AS $$ <br>
+CREATE OR REPLACE FUNCTION isnumeric(text) RETURNS BOOLEAN AS $$
+
 DECLARE X NUMERIC;
 BEGIN
   x = $1::NUMERIC;
