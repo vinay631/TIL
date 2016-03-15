@@ -51,6 +51,7 @@ This is a place to archive all the things I learn daily.
 - [XSRF](SoftwareEngineering/XSRF.md)
 - [Amdahl's law](SoftwareEngineering/amdahls.md)
 - [LLVM](SoftwareEngineering/llvm.md)
+- [Postgres isnumeric function](SoftwareEngineering/postgres_isnumeric.md)
 
 ---
 
