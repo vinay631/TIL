@@ -11,6 +11,7 @@ This is a place to archive all the things I learn daily.
 * [Soccer Analytics](#soccer analytics)
 * [Data Analysis](#data analysis)
 * [Software Engineering](#software engineering)
+* [Finance](#finance)
 * [Miscellaneous](#miscellaneous)
 
 ---
@@ -53,6 +54,11 @@ This is a place to archive all the things I learn daily.
 - [LLVM](SoftwareEngineering/llvm.md)
 - [Postgres isnumeric function](SoftwareEngineering/postgres_isnumeric.md)
 - [TEMP Table in Postgres](SoftwareEngineering/temptable.md)
+
+---
+
+### Finance
+- [Slippage](Finance/slippage.md)
 
 ---
 
