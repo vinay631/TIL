@@ -40,6 +40,7 @@ This is a place to archive all the things I learn daily.
 - [Bootstrapping](DataAnalysis/bootstrap.md)
 - [Survival Analysis](DataAnalysis/Survival.md)
 - [Heteroskedasticity](DataAnalysis/heteroskedasticity.md)
+- [Precision and Recall](DataAnalysis/PrecisionRecall.md)
 
 ---
 
