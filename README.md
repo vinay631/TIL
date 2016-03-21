@@ -12,6 +12,7 @@ This is a place to archive all the things I learn daily.
 * [Data Analysis](#data analysis)
 * [Software Engineering](#software engineering)
 * [Finance](#finance)
+* [Genomics](#genomics)
 * [Miscellaneous](#miscellaneous)
 
 ---
@@ -63,6 +64,9 @@ This is a place to archive all the things I learn daily.
 - [Slippage](Finance/slippage.md)
 
 ---
+
+### Genomics
+- [Linkage Disequillibrium](Genomics/ld.md)
 
 ### Miscellaneous
 
