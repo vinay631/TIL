@@ -44,6 +44,7 @@ This is a place to archive all the things I learn daily.
 - [Precision and Recall](DataAnalysis/PrecisionRecall.md)
 - [F1 Score](DataAnalysis/f1score.md)
 - [Smoothness of a function](DataAnalysis/smoothness)
+- [Least Angle Regression](DataAnalysis/leastanglereg.md)
 
 ---
 
