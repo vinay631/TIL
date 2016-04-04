@@ -77,6 +77,7 @@ This is a place to archive all the things I learn daily.
 ### Genomics
 - [Linkage Disequillibrium](Genomics/ld.md)
 - [Single Nucleotide Polymorphism](Genomics/snp.md)
+- [Hardy-Weinberg Principle](Genomics/hardy-weinberg.md)
 
 ### Miscellaneous
 
