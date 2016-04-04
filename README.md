@@ -46,6 +46,7 @@ This is a place to archive all the things I learn daily.
 - [Smoothness of a function](DataAnalysis/smoothness)
 - [Least Angle Regression](DataAnalysis/leastanglereg.md)
 - [Null Hypothesis](DataAnalysis/nullhypothesis.md)
+- [Type II error](DataAnalysis/type2err.md)
 
 ---
 
