@@ -71,7 +71,7 @@ This is a place to archive all the things I learn daily.
 
 ### Finance
 - [Slippage](Finance/slippage.md)
-
+- [Debt/Equity Ratio](Finance/debtToEquity.md)
 ---
 
 ### Genomics
