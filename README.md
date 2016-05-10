@@ -66,6 +66,7 @@ This is a place to archive all the things I learn daily.
 - [Python __enter__, __exit__ methods](SoftwareEngineering/enterexitpy.md)
 - [VIM](SoftwareEngineering/vimtricks.md)
    * [Replace whitespace at the start of each line](SoftwareEngineering/vimtricks.md#remove space at the start of each line)
+- [Python naming](SoftwareEngineering/python_naming.md)
 
 ---
 
