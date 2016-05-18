@@ -67,6 +67,8 @@ This is a place to archive all the things I learn daily.
 - [VIM](SoftwareEngineering/vimtricks.md)
    * [Replace whitespace at the start of each line](SoftwareEngineering/vimtricks.md#remove space at the start of each line)
 - [Python naming](SoftwareEngineering/python_naming.md)
+- [Git](SoftwareEngineering/git.md)
+   * [Clone a git repo including its submodules](SoftwareEngineering/git.md#Clone a git repo including submodules)
 
 ---
 
