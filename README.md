@@ -48,6 +48,7 @@ This is a place to archive all the things I learn daily.
 - [Null Hypothesis](DataAnalysis/nullhypothesis.md)
 - [Type II error](DataAnalysis/type2err.md)
 - [Multicollinearity](DataAnalysis/multicollinearity.md)
+- [AIC](DataAnalysis/AIC.md)
 
 ---
 
