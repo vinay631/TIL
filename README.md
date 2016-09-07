@@ -49,6 +49,7 @@ This is a place to archive all the things I learn daily.
 - [Type II error](DataAnalysis/type2err.md)
 - [Multicollinearity](DataAnalysis/multicollinearity.md)
 - [AIC](DataAnalysis/AIC.md)
+- [BIC](DataAnalysis/BIC.md)
 
 ---
 
