@@ -14,6 +14,7 @@ This is a place to archive all the things I learn daily.
 * [Finance](#finance)
 * [Genomics](#genomics)
 * [Miscellaneous](#miscellaneous)
+* [Mathematics](#mathematics)
 
 ---
 
@@ -84,6 +85,15 @@ This is a place to archive all the things I learn daily.
 - [Single Nucleotide Polymorphism](Genomics/snp.md)
 - [Hardy-Weinberg Principle](Genomics/hardy-weinberg.md)
 
+---
+
 ### Miscellaneous
 
 - [Telnet](Miscellaneous/misc.md)
+
+---
+
+### Mathematics
+- [Kolmogorov Complexity](Mathematics/kolmogorov.md)
+
+---
