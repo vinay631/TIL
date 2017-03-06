@@ -96,5 +96,4 @@ This is a place to archive all the things I learn daily.
 ### Mathematics
 - [Kolmogorov Complexity](Mathematics/kolmogorov.md)
 
-
 ---
