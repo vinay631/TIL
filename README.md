@@ -72,6 +72,8 @@ This is a place to archive all the things I learn daily.
 - [Python naming](SoftwareEngineering/python_naming.md)
 - [Git](SoftwareEngineering/git.md)
    * [Clone a git repo including its submodules](SoftwareEngineering/git.md#Clone a git repo including submodules)
+- Web
+   * [HTTP API vs REST API](SoftwareEngineering/Web/httpvsrest.md)
 
 ---
 
