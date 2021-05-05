@@ -57,7 +57,7 @@ This is a place to archive all the things I learn daily.
 ### Software Engineering
 
 - Distributed Computing
-    * Data Streaming
+    - Data Streaming
 	- [Stream](SoftwareEngineering/DistributedComputing/stream.md)
         - [Event](SoftwareEngineering/DistributedComputing/event.md)
 - Scala
